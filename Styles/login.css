@@ -32,6 +32,10 @@ header div{
     font-size: 12px;
 }
 
+.header_middle_icon{
+    
+}
+
 .header_right{
     margin-left: 3px;
 }
@@ -43,7 +47,7 @@ header div{
     height: 49px;
     width: 98px;
     font-weight: bold;
-    color: grey;
+    color: #808080;
 }
 
 .sign_in_button button{
@@ -56,3 +60,73 @@ header div{
     font-weight: bold;
     color: #0078c7;
 }
+
+.middle_icon{
+    height: 20px;
+    width: 20px;
+}
+
+.Welcome p{
+    color: brown;
+    font-size: 52px;
+    font-weight: 100;
+}
+
+.Welcome form label{
+    color: #696767;
+    font-size: 14px;
+}
+
+.Welcome form input{
+    height: 45px;
+    width: 400px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+.Welcome form a{
+    color: #0078c7;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.Welcome form button{
+    color: white;
+    background-color: #0078c7;
+    margin-top: 24px;
+    height: 45px;
+    width: 409px;
+    border-radius: 22px;
+    border: 0;
+}
+
+.Welcome img{
+    height: 400px;
+}
+
+.Welcome{
+    display: flexbox;
+}
+
+/* 
+.Welcome p{
+    color: brown;
+    font-size: 56px;
+    font-weight: 100;
+}
+
+
+.login_form label{
+    color: #696767;
+    font-size: 14px;
+}
+
+.image_split{
+    display: inline-flex;
+}
+
+.image_split img{
+    height: 550px;
+    margin-left: 460px;
+} */
