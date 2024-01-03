@@ -3,14 +3,14 @@ body{
     font-family: Helvetica, Arial, sans-serif;
 }
 header div{
-    margin-top: .9%;
+    margin-top: 0;
     display: inline-flex;
 }
 
 .header_left button{
     color: #0078c7;
     border: 0;
-    font-size: 200%;
+    font-size: 30px;
     font-weight: bold;
 }
 .out_border{
@@ -37,17 +37,21 @@ header div{
 }
 
 .join_now_button button{
+    margin-left: 10px;
     font-size: 15px;
-    border: 0;
+    border: 1px solid white;
+    height: 49px;
+    width: 98px;
     font-weight: bold;
     color: grey;
 }
 
 .sign_in_button button{
+    margin-left: 25px;
     font-size: 15px;
     border: 1px solid #0078c7;
-    height: 50px;
-    width: 95px;
+    height: 49px;
+    width: 98px;
     border-radius: 50px;
     font-weight: bold;
     color: #0078c7;
