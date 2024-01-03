@@ -101,13 +101,9 @@ header div{
     border: 0;
 }
 
-.Welcome img{
-    height: 400px;
-}
 
-.Welcome{
-    display: flexbox;
-}
+
+
 
 /* 
 .Welcome p{
