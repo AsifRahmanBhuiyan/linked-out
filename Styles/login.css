@@ -1,0 +1,54 @@
+body{
+    margin-left: 7.5%;
+    font-family: Helvetica, Arial, sans-serif;
+}
+header div{
+    margin-top: .9%;
+    display: inline-flex;
+}
+
+.header_left button{
+    color: #0078c7;
+    border: 0;
+    font-size: 200%;
+    font-weight: bold;
+}
+.out_border{
+    background-color: #0078c7;
+    color: white;
+    border-radius: 8%;
+    margin-left: 1.5%;
+    padding: 0px 3px;
+}
+
+.header_middle{
+    margin-left: 320px;
+}
+
+.header_middle button{
+    border: 0;
+    color: grey;
+    margin-right: 30px;
+    font-size: 12px;
+}
+
+.header_right{
+    margin-left: 3px;
+}
+
+.join_now_button button{
+    font-size: 15px;
+    border: 0;
+    font-weight: bold;
+    color: grey;
+}
+
+.sign_in_button button{
+    font-size: 15px;
+    border: 1px solid #0078c7;
+    height: 50px;
+    width: 95px;
+    border-radius: 50px;
+    font-weight: bold;
+    color: #0078c7;
+}
